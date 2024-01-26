@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+    font-family: 'Roboto';
+    
+}
+.container {
+   
+    display: table;
+    vertical-align: middle;
+}
+.container div{
+   width: 100%;
+}
+.content{
+    display: table-cell;
+    vertical-align: middle;
+}
+#encryt input[type=radio]{
+    margin: 10px;
+}
+#hideshow input[type=checkbox]{
+    margin: 10px;
+}
